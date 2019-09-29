@@ -1,9 +1,7 @@
-first
-
-初始化一个Git仓库，使用git init命令。
-
-添加文件到Git仓库，分两步：
-```
-git add <file>#可多次使用,也可以此添加多文件。不提示错误信息！
-git commit -m <message>  #文件提交到本地git仓库 .git中
-```
+file_name|ないよう
+:--:|:--|
+[README.md](https://github.com/kaku-kou/000)|文档目录
+[github_first_mind.md](https://github.com/kaku-kou/000/blob/master/github_first_mind.md)|github新建一个仓库时，给出的git帮助信息
+[git_help.md](https://github.com/kaku-kou/000/blob/master/git_help.md)|git学习笔记
+[markdown.md](https://github.com/kaku-kou/000/blob/master/markdown.md)|markdown学习笔记
+[vundle.md](https://github.com/kaku-kou/000/blob/master/vundle.md)|vundle 用法
